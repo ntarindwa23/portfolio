@@ -105,4 +105,10 @@ footer {
     opacity: 1;
   }
 }
+.logo {
+  max-width: 120px;
+  height: auto;
+  margin-bottom: 15px;
+  border-radius: 10px;
+}
 
